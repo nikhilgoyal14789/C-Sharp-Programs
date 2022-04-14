@@ -1,0 +1,11 @@
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPs\obj\Debug\OOPs.csprojAssemblyReference.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPs\obj\Debug\OOPs.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPs\bin\Debug\OOPs.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPs\bin\Debug\OOPs.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPs\bin\Debug\OOPs.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPs\obj\Debug\OOPs.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPs\obj\Debug\OOPs.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\OOPs\obj\Debug\OOPs.csproj.AssemblyReference.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\OOPs\obj\Debug\OOPs.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\OOPs\obj\Debug\OOPs.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\OOPs\obj\Debug\OOPs.pdb

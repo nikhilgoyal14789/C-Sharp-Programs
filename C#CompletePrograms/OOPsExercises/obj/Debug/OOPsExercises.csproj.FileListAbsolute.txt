@@ -1,0 +1,10 @@
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPsExercises\obj\Debug\OOPsExercises.csprojAssemblyReference.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPsExercises\obj\Debug\OOPsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPsExercises\bin\Debug\OOPsExercises.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPsExercises\bin\Debug\OOPsExercises.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPsExercises\bin\Debug\OOPsExercises.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPsExercises\obj\Debug\OOPsExercises.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\OOPsExercises\obj\Debug\OOPsExercises.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\OOPsExercises\obj\Debug\OOPsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\OOPsExercises\obj\Debug\OOPsExercises.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\OOPsExercises\obj\Debug\OOPsExercises.pdb

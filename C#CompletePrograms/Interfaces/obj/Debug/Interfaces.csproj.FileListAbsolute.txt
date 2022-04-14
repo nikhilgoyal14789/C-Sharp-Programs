@@ -1,0 +1,13 @@
+C:\Users\Unthinkable-lap-0292\source\repos\Program\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\Program\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\Program\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\Interfaces\obj\Debug\Interfaces.pdb

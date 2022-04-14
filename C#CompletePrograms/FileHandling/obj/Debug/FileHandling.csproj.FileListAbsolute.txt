@@ -1,0 +1,12 @@
+C:\Users\Unthinkable-lap-0292\source\repos\Program\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\Program\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\Program\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\FileHandling\obj\Debug\FileHandling.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\FileHandling\obj\Debug\FileHandling.pdb

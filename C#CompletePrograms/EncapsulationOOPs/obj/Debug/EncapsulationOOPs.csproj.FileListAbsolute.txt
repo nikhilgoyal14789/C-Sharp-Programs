@@ -1,0 +1,11 @@
+C:\Users\Unthinkable-lap-0292\source\repos\Program\EncapsulationOOPs\bin\Debug\EncapsulationOOPs.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\Program\EncapsulationOOPs\bin\Debug\EncapsulationOOPs.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\EncapsulationOOPs\bin\Debug\EncapsulationOOPs.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\Program\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\Program\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.csprojAssemblyReference.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.csproj.AssemblyReference.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.pdb

@@ -1,0 +1,13 @@
+C:\Users\Unthinkable-lap-0292\source\repos\Program\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\Program\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\Program\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\Program\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Unthinkable-lap-0292\source\repos\Program\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Unthinkable-lap-0292\source\repos\C# Complete Programs\DependencyInjection\obj\Debug\DependencyInjection.pdb
